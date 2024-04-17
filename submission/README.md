@@ -23,6 +23,7 @@ You should get an output in your terminal as the screenshot attached.<br>
  > Run the following command in Terminal after the fisrt one.
  ```docker run -p 5173:5173 my-vite-app```
 You should get an output in your terminal as the screenshot attached
+
 ![Run the Docker Image](image-6.png)
 
 
