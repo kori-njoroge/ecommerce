@@ -22,8 +22,8 @@ You should get an output in your terminal as the screenshot attached.<br>
  > The port used to access the application in localhost is ```5173```
  > Run the following command in Terminal after the fisrt one.
  ```docker run -p 5173:5173 my-vite-app```
-You should get an output in your terminal as the screenshot attached<br>
-![Run the docker container](image-3.png)<br>
+You should get an output in your terminal as the screenshot attached
+![Run the Docker Image](image-6.png)
 
 
 **4. Access the application after running the container**
